@@ -1,5 +1,5 @@
 ### ¡Hola! Me presento, soy Maycol Ninaja.
-- 🔭 Actualmente trabajo como documentación web.
+- 🔭 Actualmente buscando trabajo.
 - 🌱 Aprendiendo Angular
 - 😄 Apodos: Pollo/Maycol/Virtual
 
